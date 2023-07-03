@@ -1,1 +1,1 @@
-# m
+The project, paging with inverted hashed tables  pages is efficient and improves performance.  Inverted tables has the same amount of entries as the no of frames in  main memory. It saves space memory but when done with hashing it even reduces the search time to time complexity of O(1). We can assign frames to pages of processes and also search the frames in main memory for a page of process. Project uses linked list and hashing algorithm.
